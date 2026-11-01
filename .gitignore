@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Practice reports and screenshots stay local.
+/docs/
+/README.md
+/api/README.md
+/api/КОНТРАКТ-API.md
+/assets/fonts/README.md
