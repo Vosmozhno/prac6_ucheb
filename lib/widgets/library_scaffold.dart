@@ -144,7 +144,10 @@ class LibraryScaffold extends StatelessWidget {
                     for (final entry in compact)
                       NavigationDestination(
                         icon: Icon(_icons[entry.key]),
-                        label: entry.value,
+                        label: entry.key == '/admin/users'
+                            ? 'Роли'
+                            : entry.value,
+                        tooltip: entry.value,
                       ),
                     const NavigationDestination(
                       icon: Icon(Icons.more_horiz),
