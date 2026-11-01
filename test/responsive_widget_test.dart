@@ -7,6 +7,7 @@ import 'package:library_app/main.dart';
 import 'package:library_app/models/library_snapshot.dart';
 import 'package:library_app/state/auth_notifier.dart';
 import 'package:library_app/core/api_client.dart';
+import 'package:library_app/widgets/api_session_button.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'support/fake_api.dart';
 
@@ -253,6 +254,23 @@ void main() {
     },
   );
 
+  testWidgets('пункт выхода из меню активируется клавиатурой', (tester) async {
+    final (auth, client) = await signedIn(tester, 'reader');
+    await tester.pumpWidget(
+      LibraryApp(initialLocation: '/', apiClient: client, apiSession: auth),
+    );
+    await tester.pumpAndSettle();
+    await tester.tap(find.byType(ApiSessionButton));
+    await tester.pumpAndSettle();
+    await tester.sendKeyEvent(LogicalKeyboardKey.arrowDown);
+    await tester.sendKeyEvent(LogicalKeyboardKey.enter);
+    await tester.pumpAndSettle();
+    expect(auth.loggedIn, isFalse);
+    expect(find.text('Вход в библиотеку'), findsOneWidget);
+    await tester.pumpWidget(const SizedBox.shrink());
+    auth.dispose();
+  });
+
   for (final width in [360.0, 768.0, 1280.0, 1920.0]) {
     testWidgets(
       'основные экраны и длинные названия без переполнения при ширине $width',
@@ -270,9 +288,19 @@ void main() {
               '/readers',
               '/books/1',
               '/authors/1',
+              '/genres/1',
+              '/publishers/1',
               '/readers/1',
               '/books/new',
+              '/authors/new',
+              '/genres/new',
+              '/publishers/new',
               '/readers/new',
+              '/books/1/edit',
+              '/authors/1/edit',
+              '/genres/1/edit',
+              '/publishers/1/edit',
+              '/readers/1/edit',
               '/admin/users',
               '/admin/stats',
               '/forbidden',

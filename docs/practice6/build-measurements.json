@@ -1,0 +1,23 @@
+[
+  {
+    "variant": "js",
+    "files": 39,
+    "bytes": 37932452,
+    "medianFirstFrameMs": 140.3,
+    "medianTransferBytes": 9416422
+  },
+  {
+    "variant": "wasm",
+    "files": 41,
+    "bytes": 40645731,
+    "medianFirstFrameMs": 102.3,
+    "medianTransferBytes": 6869101
+  },
+  {
+    "variant": "optimized",
+    "files": 31,
+    "bytes": 17813471,
+    "medianFirstFrameMs": 147.8,
+    "medianTransferBytes": 9149380
+  }
+]

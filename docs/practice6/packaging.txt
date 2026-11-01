@@ -1,0 +1,2 @@
+Before packaging: 37679532 bytes; after: 17813471 bytes
+Preserved CanvasKit full + Chromium

@@ -1,0 +1,115 @@
+00:00 +0: loading /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/state_test.dart
+00:00 +0: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:00 +1: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:00 +2: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:01 +3: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:01 +4: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:01 +5: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:01 +6: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:01 +7: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Поиск перед окончанием debounce сбрасывает страницу при другом действии
+00:01 +8: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/state_test.dart: Ошибка загрузки представлена отдельным состоянием
+00:01 +9: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/state_test.dart: Ошибка загрузки представлена отдельным состоянием
+00:01 +10: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/auth_widget_test.dart: регистрация проверяет пароль во время ввода и помещается на узком экране
+00:01 +11: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:01 +12: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +13: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +14: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +15: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +16: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +17: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +18: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +19: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +20: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +21: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +22: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +23: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +24: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +25: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +26: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Меню записи связывает удаление, восстановление и физическое удаление
+00:02 +27: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +28: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +29: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +30: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +31: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +32: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +33: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +34: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +35: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +36: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +37: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +38: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +39: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +40: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +41: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +42: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +43: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +44: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +45: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +46: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +47: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +48: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +49: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +50: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +51: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +52: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +53: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +54: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +55: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +56: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +57: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +58: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Книга создаётся со связями, при редактировании поля заполнены
+00:02 +59: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Книги и авторы используют одну обобщённую таблицу
+00:02 +60: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: загрузка показывает индикатор до завершения ответа API
+00:02 +61: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: загрузка показывает индикатор до завершения ответа API
+00:03 +62: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: загрузка показывает индикатор до завершения ответа API
+00:03 +63: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: загрузка показывает индикатор до завершения ответа API
+00:03 +64: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: загрузка показывает индикатор до завершения ответа API
+00:03 +65: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: загрузка показывает индикатор до завершения ответа API
+00:03 +66: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 409 выдачи показывается пользователю сообщением сервера
+00:03 +67: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 409 выдачи показывается пользователю сообщением сервера
+00:03 +68: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 409 выдачи показывается пользователю сообщением сервера
+00:04 +69: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 409 выдачи показывается пользователю сообщением сервера
+00:04 +70: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Пагинация и заголовок сортировки меняют параметры URL
+00:04 +71: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Пагинация и заголовок сортировки меняют параметры URL
+00:04 +72: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: пустая форма выделяет обязательные поля и не отправляет POST
+00:04 +73: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: Приложение API показывает серверные данные без LibraryDatabase
+00:04 +74: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: Отказ удаления издательства оставляет список и показывает число книг
+00:04 +75: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Массовое удаление требует подтверждения и скрывает записи
+00:05 +76: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Массовое удаление требует подтверждения и скрывает записи
+00:05 +77: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 422 API показывается под полем ISBN в существующей форме
+00:05 +78: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 422 API показывается под полем ISBN в существующей форме
+00:05 +79: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 422 API показывается под полем ISBN в существующей форме
+00:05 +80: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/api_widget_test.dart: 422 API показывается под полем ISBN в существующей форме
+00:05 +81: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/widget_test.dart: Ошибку можно повторить, неверный адрес показывает 404
+00:05 +82: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/forms_test.dart: PopScope обрабатывает возврат из изменённой формы
+00:05 +83: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:05 +84: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:05 +85: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +86: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +87: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +88: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +89: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +90: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +91: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +92: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +93: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +94: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +95: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +96: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +97: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +98: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +99: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:06 +100: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:07 +101: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:07 +102: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 360.0
+00:07 +103: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/persistence_test.dart: Фильтры, сортировка и пагинация работают у новых справочников
+00:07 +104: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/persistence_test.dart: Фильтры, сортировка и пагинация работают у новых справочников
+00:08 +105: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/persistence_test.dart: Фильтры, сортировка и пагинация работают у новых справочников
+00:08 +106: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 1280.0
+00:08 +107: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 1280.0
+00:08 +108: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 1280.0
+00:08 +109: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 1280.0
+00:08 +110: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 1280.0
+00:09 +111: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: основные экраны и длинные названия без переполнения при ширине 1920.0
+00:10 +112: /Users/vozmozhno/Шарага/1 семестр/УП/prac2/test/responsive_widget_test.dart: изменение ширины сохраняет поиск и перестраивает навигацию без перезагрузки
+00:10 +113: All tests passed!
