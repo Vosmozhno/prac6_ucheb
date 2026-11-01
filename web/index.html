@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Учебный каталог библиотеки: книги, авторы, поиск, фильтры и пагинация.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Библиотека">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Библиотека · Каталог</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    html, body { margin: 0; background: #f6f8fc; color: #172554; font-family: Arial, sans-serif; }
+    #startup { position: fixed; inset: 0; display: grid; place-content: center; justify-items: center; gap: 18px; padding: 24px; text-align: center; }
+    #startup h1 { margin: 0; font-size: 30px; }
+    #startup p { margin: 0; color: #475569; max-width: 440px; line-height: 1.5; }
+    .spinner { width: 38px; height: 38px; border: 4px solid #dbeafe; border-top-color: #2563eb; border-radius: 50%; animation: spin 1s linear infinite; }
+    #startup button { padding: 12px 20px; font: inherit; color: white; background: #2563eb; border: 0; border-radius: 8px; cursor: pointer; }
+    #startup button:focus-visible { outline: 3px solid #172554; outline-offset: 4px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }
+  </style>
+</head>
+<body>
+  <main id="startup" role="status" aria-live="polite" aria-busy="true">
+    <h1>Библиотека</h1>
+    <div class="spinner" aria-hidden="true"></div>
+    <p id="startup-message">Загружаем приложение…</p>
+    <button id="startup-retry" hidden onclick="location.reload()">Повторить загрузку</button>
+  </main>
+  <noscript>Для работы библиотеки включите JavaScript в браузере.</noscript>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script>
+    window.showStartupError = function () {
+      const startup = document.getElementById('startup');
+      if (!startup) return;
+      startup.setAttribute('aria-busy', 'false');
+      startup.querySelector('.spinner').hidden = true;
+      document.getElementById('startup-message').textContent =
+        'Не удалось загрузить приложение. Проверьте соединение и попробуйте ещё раз.';
+      document.getElementById('startup-retry').hidden = false;
+    };
+    window.addEventListener('flutter-first-frame', function () {
+      document.getElementById('startup')?.remove();
+    }, { once: true });
+    window.addEventListener('error', function (event) {
+      if (event.target?.tagName === 'SCRIPT') window.showStartupError();
+    }, true);
+    window.addEventListener('unhandledrejection', window.showStartupError);
+  </script>
+  <script src="flutter_bootstrap.js" async onerror="showStartupError()"></script>
+</body>
+</html>

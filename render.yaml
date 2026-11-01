@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: prac6-library-api
+    runtime: node
+    plan: free
+    branch: main
+    buildCommand: node --version
+    startCommand: node api/mock-server.js
+    healthCheckPath: /api/genres?size=1
+    envVars:
+      - key: NODE_VERSION
+        value: 22.15.0
+      - key: HOST
+        value: 0.0.0.0
+      - key: ALLOWED_ORIGIN
+        value: https://vosmozhno.github.io
+      - key: TOKEN_SECRET
+        generateValue: true
